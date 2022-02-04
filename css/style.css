@@ -23,14 +23,14 @@ body {
     font-size: 20px;
 }
 body {
-    font-family: "Poppins"; sans-serif;
+    font-family: "Poppins";
     font-size: 20px;
     
 }
 .title {
     color: limegreen;
     font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
     text-align: center;
     text-decoration: underline;
     text-transform: uppercase;
